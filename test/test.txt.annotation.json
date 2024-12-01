@@ -1,0 +1,12 @@
+{
+    "annotations": [
+        {
+            "line": 5,
+            "text": "My annotation."
+        },
+        {
+            "line": 9,
+            "text": "Another annotation."
+        }
+    ]
+}
